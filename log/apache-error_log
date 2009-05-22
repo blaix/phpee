@@ -1,0 +1,7 @@
+[Fri Feb 22 03:28:52 2008] [error] [client ::1] File does not exist: /Users/jblake/Sites/phpee/public/favicon.ico, referer: http://localhost/
+[Fri Feb 22 03:29:03 2008] [error] [client ::1] File does not exist: /Users/jblake/Sites/phpee/public/favicon.ico, referer: http://localhost/
+[Fri Feb 22 03:29:14 2008] [error] [client ::1] File does not exist: /Users/jblake/Sites/phpee/public/favicon.ico, referer: http://localhost/
+[Fri Feb 22 03:30:29 2008] [error] [client ::1] Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Feb 22 03:30:29 2008] [error] [client ::1] Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace., referer: http://localhost/
+[Fri Feb 22 03:30:38 2008] [error] [client ::1] Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Feb 22 03:30:38 2008] [error] [client ::1] Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace., referer: http://localhost/

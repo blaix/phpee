@@ -1,0 +1,1 @@
+<p>The passed id was: <?= $id ?></p>
